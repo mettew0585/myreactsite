@@ -1,0 +1,10 @@
+.room-for-title {
+  display: flex;
+  justify-content: center;
+}
+
+.works-title {
+  font-size: 4vw;
+  text-decoration: underline;
+  font-weight: bold;
+}

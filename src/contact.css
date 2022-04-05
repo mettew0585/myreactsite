@@ -1,0 +1,25 @@
+.img-container {
+  width: 50%;
+  height: 20%;
+  border: 1px solid black;
+}
+.contact-text {
+  width: 30vw;
+  height: 36vw;
+  margin-right: 5vw;
+  display: flex;
+  flex-direction: column;
+}
+.photo3 {
+  width: 25vw;
+  height: 30vw;
+  border-radius: 10%;
+  border: 2px solid black;
+}
+.li {
+  list-style: none;
+}
+.icon {
+  width: 3vw;
+  height: 3vw;
+}

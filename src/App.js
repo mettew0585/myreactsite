@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Navbar from "./Navbar.js";
+import { React, useRef, useState } from "react";
+import Introduction from "./Introduction.js";
+import Contact from "./Contact.js";
+import Works from "./Works.js";
 
 function App() {
+  const ttt = useRef();
+  const ttt2 = useRef();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div>
+        <Navbar hook={[ttt, ttt2]}></Navbar>
+        <div className="something">
+          <Introduction hook={ttt2}></Introduction>
+        </div>
+        <div className="c">
+          <Contact hook={ttt}></Contact>
+        </div>
+        <div className="room-for-works">
+          <Works></Works>
+        </div>
+        <footer className="footer">
+          &copy;Copyright 2022 Chohyeonwoo All Rights Reserved
+        </footer>
+      </div>
+    </>
   );
 }
 
