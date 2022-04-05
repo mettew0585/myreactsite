@@ -8,10 +8,11 @@ import Works from "./Works.js";
 function App() {
   const ttt = useRef();
   const ttt2 = useRef();
+  const ttt3 = useRef();
   return (
     <>
       <div>
-        <Navbar hook={[ttt, ttt2]}></Navbar>
+        <Navbar hook={[ttt, ttt2, ttt3]}></Navbar>
         <div className="something">
           <Introduction hook={ttt2}></Introduction>
         </div>
@@ -19,7 +20,7 @@ function App() {
           <Contact hook={ttt}></Contact>
         </div>
         <div className="room-for-works">
-          <Works></Works>
+          <Works hook={ttt3}></Works>
         </div>
         <footer className="footer">
           &copy;Copyright 2022 Chohyeonwoo All Rights Reserved

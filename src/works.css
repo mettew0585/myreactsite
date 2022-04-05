@@ -8,3 +8,20 @@
   text-decoration: underline;
   font-weight: bold;
 }
+.work {
+  margin: 2vw 2vw;
+  width: 20vw;
+  height: 20vw;
+  border: 1px solid black;
+}
+.room-for-worklist {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-content: center;
+}
+.room-for-hook {
+  width: 100%;
+  height: 2px;
+  margin-bottom: 20vh;
+}

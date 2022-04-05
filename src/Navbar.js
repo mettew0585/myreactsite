@@ -9,7 +9,9 @@ function Navbar({ hook }) {
   const onClick2 = () => {
     hook[1].current.scrollIntoView({ behavior: "smooth" });
   };
-
+  const onClick3 = () => {
+    hook[2].current.scrollIntoView({ behavior: "smooth" });
+  };
   return (
     <div>
       <div className="container">
@@ -24,7 +26,7 @@ function Navbar({ hook }) {
             <p onClick={onClick}>Contact</p>
           </div>
           <div className="menu">
-            <p>Works</p>
+            <p onClick={onClick3}>Works</p>
           </div>
           <div className="menu">
             <a href="https://github.com/mettew0585">Github</a>
