@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/myreactsite/static/css/main.87d5ce79.css",
-    "main.js": "/myreactsite/static/js/main.60845f16.js",
+    "main.css": "/myreactsite/static/css/main.5d70bf73.css",
+    "main.js": "/myreactsite/static/js/main.7104154d.js",
+    "static/media/cointracker.png": "/myreactsite/static/media/cointracker.9b6dfe31ff8f0a93cb01.png",
     "static/media/img1.jpg": "/myreactsite/static/media/img1.a9da3b6fe5b1fc8e0b65.jpg",
     "static/media/img3.jpg": "/myreactsite/static/media/img3.d41a8181577faeee1057.jpg",
     "static/media/img2.jpg": "/myreactsite/static/media/img2.bc3dd18ca7a93d828093.jpg",
     "index.html": "/myreactsite/index.html",
-    "main.87d5ce79.css.map": "/myreactsite/static/css/main.87d5ce79.css.map",
-    "main.60845f16.js.map": "/myreactsite/static/js/main.60845f16.js.map"
+    "main.5d70bf73.css.map": "/myreactsite/static/css/main.5d70bf73.css.map",
+    "main.7104154d.js.map": "/myreactsite/static/js/main.7104154d.js.map"
   },
   "entrypoints": [
-    "static/css/main.87d5ce79.css",
-    "static/js/main.60845f16.js"
+    "static/css/main.5d70bf73.css",
+    "static/js/main.7104154d.js"
   ]
 }
