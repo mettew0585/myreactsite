@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myreactsite/static/css/main.eb6bc710.css",
-    "main.js": "/myreactsite/static/js/main.fbf58639.js",
+    "main.css": "/myreactsite/static/css/main.bd9a3bcf.css",
+    "main.js": "/myreactsite/static/js/main.2a4979e3.js",
     "static/media/cointracker.png": "/myreactsite/static/media/cointracker.9b6dfe31ff8f0a93cb01.png",
     "static/media/img1.jpg": "/myreactsite/static/media/img1.a9da3b6fe5b1fc8e0b65.jpg",
     "static/media/img3.jpg": "/myreactsite/static/media/img3.d41a8181577faeee1057.jpg",
@@ -12,11 +12,11 @@
     "static/media/js.jpg": "/myreactsite/static/media/js.de22c48f3819419b9410.jpg",
     "static/media/netflix.png": "/myreactsite/static/media/netflix.462c5c3d6795e149469b.png",
     "index.html": "/myreactsite/index.html",
-    "main.eb6bc710.css.map": "/myreactsite/static/css/main.eb6bc710.css.map",
-    "main.fbf58639.js.map": "/myreactsite/static/js/main.fbf58639.js.map"
+    "main.bd9a3bcf.css.map": "/myreactsite/static/css/main.bd9a3bcf.css.map",
+    "main.2a4979e3.js.map": "/myreactsite/static/js/main.2a4979e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb6bc710.css",
-    "static/js/main.fbf58639.js"
+    "static/css/main.bd9a3bcf.css",
+    "static/js/main.2a4979e3.js"
   ]
 }
