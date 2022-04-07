@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myreactsite/static/css/main.4f01cef7.css",
+    "main.css": "/myreactsite/static/css/main.95e34832.css",
     "main.js": "/myreactsite/static/js/main.24a9ed20.js",
     "static/media/cointracker.png": "/myreactsite/static/media/cointracker.9b6dfe31ff8f0a93cb01.png",
     "static/media/img1.jpg": "/myreactsite/static/media/img1.a9da3b6fe5b1fc8e0b65.jpg",
@@ -12,11 +12,11 @@
     "static/media/js.jpg": "/myreactsite/static/media/js.de22c48f3819419b9410.jpg",
     "static/media/netflix.png": "/myreactsite/static/media/netflix.462c5c3d6795e149469b.png",
     "index.html": "/myreactsite/index.html",
-    "main.4f01cef7.css.map": "/myreactsite/static/css/main.4f01cef7.css.map",
+    "main.95e34832.css.map": "/myreactsite/static/css/main.95e34832.css.map",
     "main.24a9ed20.js.map": "/myreactsite/static/js/main.24a9ed20.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f01cef7.css",
+    "static/css/main.95e34832.css",
     "static/js/main.24a9ed20.js"
   ]
 }
