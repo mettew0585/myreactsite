@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/myreactsite/static/css/main.90bf79b7.css",
-    "main.js": "/myreactsite/static/js/main.83e91764.js",
+    "main.css": "/myreactsite/static/css/main.eb6bc710.css",
+    "main.js": "/myreactsite/static/js/main.7baa4d85.js",
     "static/media/cointracker.png": "/myreactsite/static/media/cointracker.9b6dfe31ff8f0a93cb01.png",
     "static/media/img1.jpg": "/myreactsite/static/media/img1.a9da3b6fe5b1fc8e0b65.jpg",
     "static/media/img3.jpg": "/myreactsite/static/media/img3.d41a8181577faeee1057.jpg",
+    "static/media/html.jpg": "/myreactsite/static/media/html.65a02c1a22ab00a7e557.jpg",
     "static/media/img2.jpg": "/myreactsite/static/media/img2.bc3dd18ca7a93d828093.jpg",
+    "static/media/css.jpg": "/myreactsite/static/media/css.bb897cd63700098bd1a1.jpg",
+    "static/media/react.jpg": "/myreactsite/static/media/react.40d89f0775f7beda03c9.jpg",
+    "static/media/js.jpg": "/myreactsite/static/media/js.de22c48f3819419b9410.jpg",
     "static/media/netflix.png": "/myreactsite/static/media/netflix.462c5c3d6795e149469b.png",
     "index.html": "/myreactsite/index.html",
-    "main.90bf79b7.css.map": "/myreactsite/static/css/main.90bf79b7.css.map",
-    "main.83e91764.js.map": "/myreactsite/static/js/main.83e91764.js.map"
+    "main.eb6bc710.css.map": "/myreactsite/static/css/main.eb6bc710.css.map",
+    "main.7baa4d85.js.map": "/myreactsite/static/js/main.7baa4d85.js.map"
   },
   "entrypoints": [
-    "static/css/main.90bf79b7.css",
-    "static/js/main.83e91764.js"
+    "static/css/main.eb6bc710.css",
+    "static/js/main.7baa4d85.js"
   ]
 }
